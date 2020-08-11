@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/EdRamos12/EduardoAlmeida/blob/master/banner.png">
+<img width="auto" style="text-align: center;" src="https://github.com/EdRamos12/EduardoAlmeida/blob/master/banner.png">
 
 # Hello! 👋 
 
