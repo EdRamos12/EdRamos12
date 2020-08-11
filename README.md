@@ -1,10 +1,8 @@
 <img width="auto" src="https://github.com/EdRamos12/EduardoAlmeida/blob/master/banner.png">
 
-# Eduardo de Almeida
+# Hello! 👋 
 
-## Welcome!
-
-NodeJS/Fullstack developer. <br>
+NodeJS/Fullstack developer.
 Also a audiovisual producer in some cases.
 
 - Working on my [electron screen recorder](https://github.com/EdRamos12/eds-screencap)
