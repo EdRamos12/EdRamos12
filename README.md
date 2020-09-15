@@ -13,4 +13,4 @@ Also a audiovisual producer in some cases.
 - 📜 Stacks: ReactJS, Node.js, React Native, Typescript and Electron;
 - 📌 About me: I like JavaScript/Lua, and games, as Team Fortress 2, Valorant, Rangarok Online;
 
-Contact: [![Hotmail Badge](https://img.shields.io/badge/-eduardo_ramos12@live.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo_ramos12@live.com)](mailto:eduardo_ramos12@live.com)
+[![Hotmail Badge](https://img.shields.io/badge/-eduardo_ramos12@live.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo_ramos12@live.com)](mailto:eduardo_ramos12@live.com)
