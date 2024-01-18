@@ -4,8 +4,7 @@
 
 # Hello! 👋 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
-
+<p align="center">I like to learn. A bunch of stuff. <br><br> From backend development using Flask to frontend development using React and NextJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>fullstack developer</strong> focused on web development. Currently studying the ELK Stack (Elasticsearch and Kibana)</p>&nbsp;
 
 ## Skillz
 #### Languages:
