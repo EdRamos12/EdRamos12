@@ -32,6 +32,8 @@
 ![Next JS](https://img.shields.io/badge/next%20js-FFF?style=for-the-badge&logo=nextdotjs&logoColor=black)
 ![React](https://img.shields.io/badge/React-FFF?style=for-the-badge&logo=react&logoColor=black)
 ![React Naitve](https://img.shields.io/badge/React_Native-FFF?style=for-the-badge&logo=react&logoColor=black)
+![Bulma](https://img.shields.io/badge/Bulma-FFF?style=for-the-badge&logo=Bulma&logoColor=black)
+![BootStrap](https://img.shields.io/badge/Bootstrap-FFF?style=for-the-badge&logo=bootstrap&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/Socket.io-FFF?&style=for-the-badge&logo=Socket.io&logoColor=black)
 ![Bun](https://img.shields.io/badge/bun-FFF?style=for-the-badge&logo=bun&logoColor=black)
 ![Express](https://img.shields.io/badge/Express%20js-FFF?style=for-the-badge&logo=express&logoColor=black)
