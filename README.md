@@ -1,11 +1,10 @@
 <p style="align-text: center">
-  <img width="auto" src="https://github.com/EdRamos12/EduardoAlmeida/blob/master/banner.png">
+  <img width="auto" src="https://github.com/EdRamos12/EdRamos12/blob/master/vai%20duro.png">
 </p>
 
 # Hello! 👋 
 
-NodeJS/Fullstack developer.
-Also a audiovisual producer in some cases.
+Python/NodeJS/Fullstack developer.
 
 - ⚡ Working on my [electron screen recorder](https://github.com/EdRamos12/eds-screencap)
 - 🌱 Currently studying about back-end;
