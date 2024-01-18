@@ -42,9 +42,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-FFF?style=for-the-badge&logo=mysql&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF?style=for-the-badge&logo=postgresql&logoColor=black)
 
-#### Analytics
-
-
 ## Contact me!
 [![Protonmail](https://img.shields.io/badge/ProtonMail-FFF?style=for-the-badge&logo=protonmail&logoColor=black)](mailto:eduardo_ramos12@protonmail.ch)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/eduardo--ramos/)
