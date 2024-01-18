@@ -23,7 +23,7 @@
 #### Studying:
 ![C](https://img.shields.io/badge/C-FFF?style=for-the-badge&logo=c&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-FFF?style=for-the-badge&logo=pandas&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-FFF?style=for-the-badge&logo=grafana&logoColor=white&labelColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-FFF?style=for-the-badge&logo=grafana&logoColor=black)
 
 #### Fullstack (Front-end && Back-end):
 ![Electron](https://img.shields.io/badge/Electron-FFF?style=for-the-badge&logo=electron&logoColor=black)
@@ -38,7 +38,7 @@
 #### Databases
 ![Elastic Search](https://img.shields.io/badge/Elastic_Search-FFF?style=for-the-badge&logo=elasticsearch&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFF?style=for-the-badge&logo=mongodb&logoColor=black)
-![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=black)
+![SQLite](https://img.shields.io/badge/Sqlite-FFF?style=for-the-badge&logo=sqlite&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-FFF?style=for-the-badge&logo=mysql&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFF?style=for-the-badge&logo=postgresql&logoColor=black)
 
