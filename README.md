@@ -18,6 +18,8 @@
 ![Git](https://img.shields.io/badge/GIT-FFF?style=for-the-badge&logo=git&logoColor=black)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-FFF?style=for-the-badge&logo=GNU%20Bash&logoColor=black)
 
+<img src="https://raw.githubusercontent.com/EdRamos12/EdRamos12/blob/master/undraw_Coding_re_iv62.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 #### Studying:
 ![C](https://img.shields.io/badge/C-FFF?style=for-the-badge&logo=c&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-FFF?style=for-the-badge&logo=pandas&logoColor=black)
