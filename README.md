@@ -6,10 +6,16 @@
 
 Python/NodeJS/Fullstack developer.
 
-## Stacks:
-<img width="auto" src="https://img.shields.io/badge/Python-FFF?style=for-the-badge&logo=python&logoColor=black">
-<img width="auto" src="https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=html5&logoColor=black">
-
+## Stackz:
+![Python](https://img.shields.io/badge/Python-FFF?style=for-the-badge&logo=python&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-FFF?style=for-the-badge&logo=css3&logoColor=black)
+![Javascript](https://img.shields.io/badge/JavaScript-FFF?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-FFF?style=for-the-badge&logo=typescript&logoColor=black)
+![React](https://img.shields.io/badge/React-FFF?style=for-the-badge&logo=react&logoColor=black)
+![React Naitve](https://img.shields.io/badge/React_Native-FFF?style=for-the-badge&logo=react&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-FFF?&style=for-the-badge&logo=Socket.io&logoColor=black)
+![Git](	https://img.shields.io/badge/GIT-FFF?style=for-the-badge&logo=git&logoColor=black)
 
 - ⚡ Working on my [electron screen recorder](https://github.com/EdRamos12/eds-screencap)
 - 🌱 Currently studying about back-end;
