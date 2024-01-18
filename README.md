@@ -23,7 +23,7 @@
 #### Studying:
 ![C](https://img.shields.io/badge/C-FFF?style=for-the-badge&logo=c&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-FFF?style=for-the-badge&logo=pandas&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-FFF?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-FFF?style=for-the-badge&logo=grafana&logoColor=white&labelColor=black)
 
 #### Fullstack (Front-end && Back-end):
 ![Electron](https://img.shields.io/badge/Electron-FFF?style=for-the-badge&logo=electron&logoColor=black)
