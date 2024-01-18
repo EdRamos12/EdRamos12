@@ -7,7 +7,9 @@
 Python/NodeJS/Fullstack developer.
 
 ## Stacks:
-<img width="auto" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img width="auto" src="https://img.shields.io/badge/Python-FFF?style=for-the-badge&logo=python&logoColor=black">
+<img width="auto" src="https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=html5&logoColor=black">
+
 
 - ⚡ Working on my [electron screen recorder](https://github.com/EdRamos12/eds-screencap)
 - 🌱 Currently studying about back-end;
