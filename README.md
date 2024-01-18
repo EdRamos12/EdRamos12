@@ -46,4 +46,4 @@
 
 ## Contact me!
 [![Protonmail](https://img.shields.io/badge/ProtonMail-FFF?style=for-the-badge&logo=protonmail&logoColor=black)](mailto:eduardo_ramos12@protonmail.ch)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/eduardo-almeida-ramos/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/eduardo--ramos/)
