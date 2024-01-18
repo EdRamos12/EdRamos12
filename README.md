@@ -2,11 +2,9 @@
   <img width="auto" src="https://github.com/EdRamos12/EdRamos12/blob/master/vai%20duro.png">
 </p>
 
-<img min-width="400px" max-width="400px" width="400px" align="right" xmlns="http://www.w3.org/2000/svg" src="https://cdn.pixabay.com/photo/2024/01/14/15/15/keyboard-8508100_1280.jpg">
-
 # Hello! 👋 
 
-<p align="left">I like to learn. A bunch of stuff. <br><br> From backend development using Flask to frontend development using React and NextJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>fullstack developer</strong> focused on web development. Currently studying the ELK Stack (Elasticsearch and Kibana)</p>&nbsp;
+<p align="center">I like to learn. A bunch of stuff. <br><br> From backend development using Flask to frontend development using React and NextJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>fullstack developer</strong> focused on web development. Currently studying the ELK Stack (Elasticsearch and Kibana)</p>&nbsp;
 
 ## Skillz
 #### Languages:
@@ -18,6 +16,8 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-FFF?style=for-the-badge&logo=typescript&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-FFF?style=for-the-badge&logo=git&logoColor=black)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-FFF?style=for-the-badge&logo=GNU%20Bash&logoColor=black)
+
+<img min-width="400px" max-width="400px" width="400px" align="right" src="https://github.com/EdRamos12/EdRamos12/blob/master/undraw_coding_re_iv62-_1_.png">
 
 #### Studying:
 ![C](https://img.shields.io/badge/C-FFF?style=for-the-badge&logo=c&logoColor=black)
