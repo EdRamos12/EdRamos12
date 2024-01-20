@@ -39,7 +39,7 @@
 ![Express](https://img.shields.io/badge/Express%20js-FFF?style=for-the-badge&logo=express&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-FFF?style=for-the-badge&logo=flask&logoColor=black)
 
-#### Databases
+#### Databases:
 ![Elastic Search](https://img.shields.io/badge/Elastic_Search-FFF?style=for-the-badge&logo=elasticsearch&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFF?style=for-the-badge&logo=mongodb&logoColor=black)
 ![SQLite](https://img.shields.io/badge/Sqlite-FFF?style=for-the-badge&logo=sqlite&logoColor=black)
