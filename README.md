@@ -6,9 +6,9 @@
 
 <p align="center">I like to learn. A bunch of stuff. <br><br> From backend development using Flask to frontend development using React and NextJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>fullstack developer</strong> focused on web development. Currently studying the ELK Stack (Elasticsearch and Kibana)</p>&nbsp;
 
-## Skillz
+## Skills
 
-<img min-width="400px" max-width="400px" width="400px" align="right" src="https://github.com/EdRamos12/EdRamos12/blob/master/undraw_coding_re_iv62-_1_.png">
+<img min-width="400px" max-width="400px" width="400px" align="right" src="https://github.com/EdRamos12/EdRamos12/blob/master/undraw_programming_re_kg9v.svg">
 
 #### Languages:
 
@@ -21,12 +21,6 @@
 ![Git](https://img.shields.io/badge/GIT-FFF?style=for-the-badge&logo=git&logoColor=black)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-FFF?style=for-the-badge&logo=GNU%20Bash&logoColor=black)
 
-#### Studying:
-![C](https://img.shields.io/badge/C-FFF?style=for-the-badge&logo=c&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-FFF?style=for-the-badge&logo=pandas&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-FFF?style=for-the-badge&logo=grafana&logoColor=black)
-![Kibana](https://img.shields.io/badge/Kibana-FFF?style=for-the-badge&logo=Kibana&logoColor=black)
-
 #### Fullstack (Front-end && Back-end):
 ![Electron](https://img.shields.io/badge/Electron-FFF?style=for-the-badge&logo=electron&logoColor=black)
 ![Next JS](https://img.shields.io/badge/next%20js-FFF?style=for-the-badge&logo=nextdotjs&logoColor=black)
@@ -38,6 +32,9 @@
 ![Bun](https://img.shields.io/badge/bun-FFF?style=for-the-badge&logo=bun&logoColor=black)
 ![Express](https://img.shields.io/badge/Express%20js-FFF?style=for-the-badge&logo=express&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-FFF?style=for-the-badge&logo=flask&logoColor=black)
+![Kibana](https://img.shields.io/badge/Kibana-FFF?style=for-the-badge&logo=Kibana&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-FFF?style=for-the-badge&logo=pandas&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-FFF?style=for-the-badge&logo=grafana&logoColor=black)
 
 #### Databases:
 ![Elastic Search](https://img.shields.io/badge/Elastic_Search-FFF?style=for-the-badge&logo=elasticsearch&logoColor=black)
