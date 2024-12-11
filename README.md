@@ -35,6 +35,8 @@
 ![Kibana](https://img.shields.io/badge/Kibana-FFF?style=for-the-badge&logo=Kibana&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-FFF?style=for-the-badge&logo=pandas&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-FFF?style=for-the-badge&logo=grafana&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-FFF?style=for-the-badge&logo=Jenkins&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-FFF?style=for-the-badge&logo=Nginx&logoColor=black)
 
 #### Databases:
 ![Elastic Search](https://img.shields.io/badge/Elastic_Search-FFF?style=for-the-badge&logo=elasticsearch&logoColor=black)
